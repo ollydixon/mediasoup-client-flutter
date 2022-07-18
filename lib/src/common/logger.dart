@@ -2,7 +2,7 @@ const String APP_NAME = 'mediasoup-client';
 
 typedef void LoggerDebug(dynamic message);
 
-bool isLogging = true;
+bool isLogging = false;
 
 setLoggerStatus(bool isLoggingP) {
   isLogging = isLogging;
