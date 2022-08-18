@@ -133,12 +133,10 @@ packages:
   flutter_webrtc:
     dependency: "direct main"
     description:
-      path: "."
-      ref: "feat/select-audio-output"
-      resolved-ref: "2a9dab20beaf57b96215c0d0ec944fe733e11b9e"
-      url: "https://github.com/flutter-webrtc/flutter-webrtc.git"
-    source: git
-    version: "0.9.2"
+      name: flutter_webrtc
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.8.7"
   frontend_server_client:
     dependency: transitive
     description:
