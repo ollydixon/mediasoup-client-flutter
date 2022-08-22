@@ -91,7 +91,7 @@ packages:
       name: dart_webrtc
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.6"
+    version: "1.0.7"
   events2:
     dependency: "direct main"
     description:
@@ -136,7 +136,7 @@ packages:
       name: flutter_webrtc
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.9.2"
+    version: "0.9.4"
   frontend_server_client:
     dependency: transitive
     description:
